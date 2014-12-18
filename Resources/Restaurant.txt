@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Dishes>
+
+<Dish>
+<id>1
+</id>
+<Name>Soop
+</Name>
+<Category>First
+</Category>
+<Price>100
+</Price>
+</Dish>
+
+<Dish>
+<id>2
+</id>
+<Name>Tea
+</Name>
+<Category>Drink
+</Category>
+<Price>15
+</Price>
+</Dish>
+
+<Dish>	
+<id>3
+</id>
+<Name>Shrimp Salad
+</Name>
+<Category>Salad
+</Category>
+<Price>115
+</Price>
+</Dish>
+
+<Dish>
+<id>4
+</id>
+<Name>Chicken with potatoe     
+</Name>
+<Category>Second
+</Category>
+<Price>130
+</Price>
+</Dish>
+
+        </Dishes>
